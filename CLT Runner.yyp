@@ -35,12 +35,12 @@
   },
   "name":"CLT Runner",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rm1","path":"rooms/rm1/rm1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm1","path":"rooms/rm1/rm1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
