@@ -32,8 +32,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"antigos sprites",
+    "path":"folders/Sprites/antigos sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
