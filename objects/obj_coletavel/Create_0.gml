@@ -5,23 +5,12 @@ velv = global.veloc;
 
 randomise();
 
-sprite_index = choose(spr_batata_frita, spr_chocolate, spr_coxinha, spr_hamburguer);
+sprite_index = choose(spr_dolar, spr_cunho, spr_carteira, spr_moeda);
 
-if (sprite_index = spr_batata_frita)
+if (sprite_index = spr_dolar)
 {
-	y = -7
-	x = choose(156, 23);
-	if (x = 156)
-	{
-		image_xscale = -image_xscale;
-	}
-
-
-}
-else if (sprite_index = spr_coxinha)
-{
-	y = -7
-	x = choose(157, 23);
+	y = -14
+	x = choose(157, 24);
 	if (x = 157)
 	{
 		image_xscale = -image_xscale;
@@ -29,22 +18,33 @@ else if (sprite_index = spr_coxinha)
 
 
 }
-else if (sprite_index = spr_chocolate)
+else if (sprite_index = spr_cunho)
 {
-	y = -5
-	x = choose(155, 24);
-	if (x = 155)
+	y = -14
+	x = choose(156, 24);
+	if (x = 156)
 	{
 		image_xscale = -image_xscale;
 	}
 
 
 }
-else if (sprite_index = spr_hamburguer)
+else if (sprite_index = spr_carteira)
 {
-	y = -9
-	x = choose(155, 25);
-	if (x = 155)
+	y = -14
+	x = choose(157, 24);
+	if (x = 157)
+	{
+		image_xscale = -image_xscale;
+	}
+
+
+}
+else if (sprite_index = spr_moeda)
+{
+	y = -14
+	x = choose(157, 24);
+	if (x = 157)
 	{
 		image_xscale = -image_xscale;
 	}

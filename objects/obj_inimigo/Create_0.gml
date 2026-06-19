@@ -6,8 +6,8 @@ velv = global.veloc;
 randomise();
 
 y = -14
-x = choose(151, 29);
-if (x = 151)
+x = choose(153, 27);
+if (x = 153)
 {
 	image_xscale = -image_xscale;
 }

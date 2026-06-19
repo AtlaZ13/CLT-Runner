@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_clt",
-    "path":"sprites/spr_clt/spr_clt.yy",
+    "name":"spr_elfo",
+    "path":"sprites/spr_elfo/spr_elfo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
