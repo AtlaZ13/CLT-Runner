@@ -1,5 +1,5 @@
 
-global.pontos = 10000;
+global.pontos = 0;
 
 global.veloc = 1;
 

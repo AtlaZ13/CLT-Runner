@@ -1,5 +1,6 @@
 /// @description Inicia variavel
 // Você pode escrever seu código neste editor
+global.veloc = 1;
 
 randomize();
 
